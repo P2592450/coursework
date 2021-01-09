@@ -1,0 +1,75 @@
+header{background-color: #5858FA;
+text-align: center;
+color: white;
+font-family: cursive;
+border: 4px outset black;}
+
+footer{background-color: #5858FA;
+text-align: center;
+color: white;
+font-family: serif;
+border: 4px outset black;}
+
+header, section, footer {margin: 20px;
+padding: 10px;}
+
+body {background-image: url(../Image/Flower.jpg);}
+
+Section {background-color: #5858FA;
+text-align: center;
+color: white;
+font-family: cursive;
+border: 4px outset black;}
+
+nav a {color: white;}
+
+h1 {text-align: center;
+color: white;
+font-weight: bold;
+font-family: cursive;
+background-color:#5858FA }
+
+
+.menuItem {float: left;
+width: 46%;
+text-align: center;
+padding: 20px;
+box-sizing: border-box;
+margin: 2%;
+background-color: #5858FA;
+border: 4px outset black}
+
+section::after {content: "";
+  display: block;
+  clear: both;}
+
+  #Menu{background-color: White;
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  border: 4px outset black;}
+
+  #Synopsis{background-color: #5858FA;
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  border: 4px outset black;}
+
+  #Poster {float: left;
+  margin: 0 15px 0 0}
+
+#CAST {background-color: White;
+text-align: center;
+color: Black;
+font-family: cursive;
+border: 4px outset black;}
+
+
+
+#Trailer {background-color: White;
+text-align: center;
+color: Black;
+font-family: cursive;
+border: 4px outset black;}
+
+a {color: #FDCF02}
