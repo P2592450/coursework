@@ -1,0 +1,76 @@
+header{background-color: #CC99FF;
+text-align: center;
+color: black;
+font-family:cursive;<a href ='Homepage.Html'
+border: 4px outset black;}
+
+footer{background-color: #CC99FF;
+text-align: center;
+color: black;
+font-family: serif;
+border: 4px outset black;}
+
+header, section, footer {margin: 20px;
+padding: 10px;}
+
+
+Section {background-color: #5858FA;}
+text-align: center;
+color: white;
+font-family:cursive;
+border: 4px outset black;}
+
+nav a {color: white;}
+
+h1 {text-align: center;
+color: White;
+font-weight: bold;
+font-family: cursive;
+background-color:#5858FA }
+
+
+.menuItem {float: left;
+width: 46%;
+text-align: center;
+padding: 20px;
+box-sizing: border-box;
+margin: 2%;
+background-color: #5858FA;
+border: 4px outset black}
+
+section::after {content: "";
+  display: block;
+  clear: both;}
+
+  #Menu{background-color: White;
+  text-align: center;
+  color: white;
+  font-family: cursive;
+  border: 4px outset black;}
+
+  #Synopsis{background-color: #5858FA;
+  text-align: center;
+  color: White;
+  font-family: cursive;
+  border: 4px outset black;}
+
+  #Poster {float: left;
+  margin: 0 15px 0 0}
+
+body{background-color:#ffffff ;}
+text-align: center;
+color:white;
+font-family: cursive;
+border: 4px outset black;}
+
+
+#Trailer {background-color: White;
+text-align: center;
+color: Black;
+font-family: cursive;
+border: 4px outset black;}
+
+a {color: #FDCF02}
+
+body{background-color: white}
+header{background-color: #CC99FF;
